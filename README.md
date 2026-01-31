@@ -1,3 +1,3 @@
 # AutoRestartWifiAdapter
 
-Script to automatically restart wifi adapter when internet is lost in it. Useful with wifi adapters that lose wifi connection and only get back when restarting it in Windows
+Powershell script that monitors internet connectivity and automatically restarts WiFi adapters when connection is lost. Solves issues with adapters that fail to auto-reconnect.
